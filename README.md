@@ -10,6 +10,11 @@ En readme indica la descripción del proyecto, un manual de usuario, desarrollad
 
 Agregar conclusiones indicando las dificultades encontradas al gestionar tu proyecto en GITHUB
 
+
+Desarrollador
+Jesus Miguel :D
+
+
 direccion de github
 https://github.com/pruebamig/hello-world/
 
